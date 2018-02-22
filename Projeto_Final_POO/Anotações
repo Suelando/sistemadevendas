@@ -1,0 +1,23 @@
+Anotações pertinentes ao Projeto
+
+-> Feito:
+Add, Remove e Altera Clientes;
+Add, Remove e Altera Produtos;
+Pesquisa por Clientes;
+Pesquisa por Produtos;
+Consulta valor de Produtos;
+Consulta Clientes, trazendo suas informações armazenadas;
+Realiza vendas;
+Registra as vendas;
+Persistência dos dados
+SOCKET (O backup das informações ficam dentro da pasta do programa no diretório: backupdoArmazenamento)
+
+-> À Fazer
+Criar todos os testes possíveis com o try/catch em todas as telas, exceto na tela de vendas;
+Poliformismo e Herença em alguma coisa;
+
+** Obs 1: O único teste que é feito em todas as operações é se o produto ou o cliente informado existe antes de realizar qualquer ação.
+** Obs 2: A tela de vendas já está totalmente concluída, testes, tratamento de erros e operações;
+** Obs 3: Na coleção de vendas há um metodo com exception e na tela ViewNovaVenda ao clicar o botão de finalizar venda eu faço uma chamada a este método.
+** Obs 4: O software está salvando as informações através do botão SALVAR INFORMAÇÕES que está na tela principal do software.
+** Obs 5: BUG quando o programa tenta ler o XML das vendas realizadas. (RESOLVIDO - FOI A CONVERSÃO DAS DATAS O PROBLEMA)
