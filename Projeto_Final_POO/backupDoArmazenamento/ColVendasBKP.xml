@@ -1,0 +1,3 @@
+<?xml version="1.0" ?><list><Venda><idVenda>1</idVenda><idProduto>0</idProduto><qtdeProdutosComprados>1</qtdeProdutosComprados><nomeCliente>Alan</nomeCliente><cpfCliente>105</cpfCliente><metodoPagamento>Dinheiro. Caixa recebeu R$ 300
+ Troco: R$ 249.75</metodoPagamento><dataDaVendaNaoFormatada>2018-02-08 18:27:41.735 UTC</dataDaVendaNaoFormatada><valorDaCompra>50.25</valorDaCompra></Venda><Venda><idVenda>2</idVenda><idProduto>3</idProduto><qtdeProdutosComprados>1</qtdeProdutosComprados><nomeCliente>Suelando</nomeCliente><cpfCliente>107</cpfCliente><metodoPagamento>Cartao de Credito: 3x
+Parcelas de: R$ 25.300001</metodoPagamento><dataDaVendaNaoFormatada>2018-02-08 18:45:56.259 UTC</dataDaVendaNaoFormatada><valorDaCompra>75.9000015258789</valorDaCompra></Venda></list>
